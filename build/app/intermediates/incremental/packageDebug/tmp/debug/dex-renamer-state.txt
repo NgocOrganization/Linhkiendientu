@@ -1,0 +1,4 @@
+#Fri Nov 24 19:32:43 ICT 2023
+base.0=E\:\\NewFolder\\Nam3_Ki1\\Mobile\\TH\\TeamProject7\\linhkiendientu\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
